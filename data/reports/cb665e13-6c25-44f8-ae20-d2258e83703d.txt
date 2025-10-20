@@ -1,0 +1,37 @@
+MEDICAL REPORT
+
+Patient: Kanisihka Rathore
+Date: January 20, 2025
+
+CHIEF COMPLAINT:
+Patient presents with fever and cough for 5 days.
+
+VITAL SIGNS:
+Temperature: 101.2°F
+Blood Pressure: 135/85
+Heart Rate: 88 bpm
+Respiratory Rate: 20/min
+SpO2: 94%
+
+LABORATORY RESULTS:
+HbA1c: 6.5%
+Glucose: 118 mg/dL
+Hemoglobin: 13.5 g/dL
+WBC: 12500 cells/μL
+Creatinine: 0.9 mg/dL
+
+MEDICATIONS PRESCRIBED:
+1. Azithromycin 500mg daily for 5 days
+2. Lisinopril 10mg daily
+3. Metformin 500mg twice daily
+4. Aspirin 81mg daily
+
+DIAGNOSIS:
+1. Acute Bronchitis
+2. Type 2 Diabetes Mellitus
+3. Hypertension
+
+RECOMMENDATIONS:
+- Follow-up in 1 week
+- Monitor blood pressure at home
+- Continue current medications 
